@@ -1,5 +1,5 @@
 # PowerBI-ATLIQ Grands
-Insights for Atliq Grands based on historical data.<br/><br/>
+Revenue Insights for Atliq Grands based on historical data.<br/><br/>
 ## Introduction
 This project aims to provide actionable, data-driven recommendations to Atliq Grands for them to to regain their market share and revenue.<br/><br/>
 ## Data Source
@@ -26,7 +26,7 @@ We have 5 csv files given to us with all the details related to Atliq Grands bus
   8 DBRN : Daily Booked Room Nights
   9 RevPAR : Revenue Per Available Room
   10 DURN : Daily Utilized Room Nights
-+ _Spend Analysis_
++ _Revenue Analysis_
 ![spend_insights_p1](https://github.com/user-attachments/assets/e701f0a9-1a4f-4fdd-aa4a-ffaa716f7e69)
   - _The spend analysis of the customers gives us insights on the spending pattern of customers._<br/>
   - Key Insights<br/>
